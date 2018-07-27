@@ -10,8 +10,7 @@ Name : Mohammad  Ashraful Alam
 Roll : 2013-331-532
 Email : ashraful32.cse@gmail.com
 
-Name : Md.  Mursheduzzaman Rakib
-Roll :  2013-331-514
+
 
 
 Project  Information :
