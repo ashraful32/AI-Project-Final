@@ -1,0 +1,59 @@
+
+html,body{
+
+margin: 0;
+padding: 0;
+background-color: white;
+
+}
+
+#wrapper{
+margin-left: 400px;
+margin-top: 80px;
+// margin: 8pixel auto 6pixel;
+width: 382px;
+position: relative;
+
+}
+
+
+#board_wrapper{
+
+height: 324px;
+background-color: white;
+border: 2px solid black;
+
+}
+
+
+div.row_wrapper{
+
+  height: 54px;
+
+}
+
+
+div.row_wrapper div{
+
+   width: 50px;
+   height: 50px;
+   border: 2px solid black;
+   float: left;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
