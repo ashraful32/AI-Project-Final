@@ -7,7 +7,6 @@ Project  Name : Four  connected  Game
 
 Student Information : 
 Name : Mohammad  Ashraful Alam
-Roll : 2013-331-532
 Email : ashraful32.cse@gmail.com
 
 
